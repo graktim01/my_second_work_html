@@ -1,0 +1,18 @@
+p{
+border: 5px dashed green;
+}
+.style1{
+border: none;
+background-color: red;
+}
+#mi{
+border: 2px solid black;
+}
+#none{
+border: none;
+}
+.box{
+height: 400px;
+width: 650px;
+background-color: #9400D3;
+}
